@@ -36,3 +36,4 @@
 *.dSYM/
 *.su
 chrome-build/*
+minesweeper_tools/node_modules/*
